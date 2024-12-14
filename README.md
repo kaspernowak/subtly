@@ -34,8 +34,6 @@ Subtly is an open-source subtitle translation platform that leverages DeepL's po
     - 🧪 [Playwright](https://playwright.dev) for End-to-End testing
     - 🦇 Dark mode support
 
-- 📦 [Docker](https://www.docker.com) for easy deployment
-
 - 🛸 [**Traefik**](https://traefik.io) for reverse proxy and load balancing
 
 - 🔒 Security & User Management
